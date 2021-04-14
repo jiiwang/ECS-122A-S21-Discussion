@@ -13,3 +13,8 @@ Discussion Notes for ECS-122A: Algorithm Design and Analysis, Spring 2021 @ucdav
 3. Review: Polynomials, Exponentials, Logarithms, and their Derivatives
 4. Asymptotic Notation and Example
 5. Growth relation between frequently used functions
+
+#### Week 3
+1. Divide and Conquer: key ideas
+2. Solve Divide and Conquer recurrences by Master Theorem
+3. Example: a variant of max-subarray problem
