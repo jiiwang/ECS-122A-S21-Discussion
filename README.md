@@ -17,4 +17,3 @@ Discussion Notes for ECS-122A: Algorithm Design and Analysis, Spring 2021 @ucdav
 #### Week 3
 1. Divide and Conquer: key ideas
 2. Solve Divide and Conquer recurrences by Master Theorem
-3. Example: a variant of max-subarray problem
