@@ -17,3 +17,8 @@ Discussion Notes for ECS-122A: Algorithm Design and Analysis, Spring 2021 @ucdav
 #### Week 3
 1. Divide and Conquer: key ideas
 2. Solve Divide and Conquer recurrences by Master Theorem
+
+#### Week 4
+Two problems solved by divide and conquer:
+1. Integer multiplication
+2. Stock investment
