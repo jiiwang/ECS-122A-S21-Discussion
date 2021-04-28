@@ -22,3 +22,7 @@ Discussion Notes for ECS-122A: Algorithm Design and Analysis, Spring 2021 @ucdav
 Two problems solved by divide and conquer:
 1. Integer multiplication
 2. Stock investment
+
+#### Week 5
+1. Refueling problem by greedy algorithm
+2. Midterm 1 recap
