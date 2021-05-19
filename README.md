@@ -26,3 +26,15 @@ Two problems solved by divide and conquer:
 #### Week 5
 1. Refueling problem by greedy algorithm
 2. Midterm 1 recap
+
+#### Week 6
+Dynamic programming:
+    1. Key ideas
+    2. Longest common subsequence and its variant: maximum common substring 
+
+#### Week 7
+Dynamic programming coin change problem
+
+#### Week 8
+1. Graph basics
+2. BFS and DFS
