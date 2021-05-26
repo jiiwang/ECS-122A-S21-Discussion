@@ -38,3 +38,7 @@ Dynamic programming coin change problem
 #### Week 8
 1. Graph basics
 2. BFS and DFS
+
+#### Week 9
+1. Minimum spanning tree: Prim's and Kruskal's
+2. Midterm 2 recap
