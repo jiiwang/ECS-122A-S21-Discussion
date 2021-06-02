@@ -42,3 +42,7 @@ Dynamic programming coin change problem
 #### Week 9
 1. Minimum spanning tree: Prim's and Kruskal's
 2. Midterm 2 recap
+
+#### Week 10:
+1. Modify MST or Shortest Path
+2. NP: Decision Problem to Optimization Problem
